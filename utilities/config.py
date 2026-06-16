@@ -1,0 +1,1 @@
+BASE_URL = "http://localhost/dashboard/selenium_demo/"
